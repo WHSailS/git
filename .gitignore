@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+out/
+*.log
+
+# Environment & secrets
+.env
+.env.*
+*.pem
